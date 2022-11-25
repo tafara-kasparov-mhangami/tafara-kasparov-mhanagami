@@ -1,31 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/tafara-kasparov-mhangami/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=tafara-kasparov-mhangami&style=flat-square&color=blue" alt=""/>
+<div id="header" align="left">
   <h1>
-    hey there
+    Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=It's Tafara, a.k.a as Poseidon, the God of C." alt="Typing SVG" /></a>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I am a Machine Learning Engineer with a rich background in web development. <img src="https://media.giphy.com"
+I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zimbabwe.
+- :telescope: I am a Machine Learning Engineer with a rich background in web development. 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am trying to make machines more intelligent than I am.
 
-- :zap: In my free time, I work  problems on personal projects and read tech articles.
+- :zap: In my free time, I work on personal projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tafara-kasparov-mhangami/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/tafara-kasparov-mhangami/)
 
 ---
 
@@ -57,8 +50,8 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafara-kasparov-mhanagami&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafara-kasparov-mhangami&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-tafara-kasparov-mhanagamI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafara-kasparov-mhangami&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
