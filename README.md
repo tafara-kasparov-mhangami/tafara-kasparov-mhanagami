@@ -1,1 +1,0 @@
-# tafara-kasparov-mhanagami
