@@ -5,7 +5,7 @@
   </h1>
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=It's Tafara, let colloborate & change the world." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=It's Tafara, let's colloborate and change the world." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -18,7 +18,7 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I work on personal projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/tafara-kasparov-mhangami/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/tafara-kasparov-mhangami/)]
 
 ---
 
