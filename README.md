@@ -5,7 +5,7 @@
   </h1>
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=It's Tafara, a.k.a as Poseidon, the God of C." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=It's Tafara, let colloborate & change the world." alt="Typing SVG" /></a>
 </div>
 
 ---
