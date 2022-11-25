@@ -18,7 +18,12 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I work on personal projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/tafara-kasparov-mhangami/)]
+---
+
+### : Let's connect :
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tafara-kasparov-mhangami/)
+&nbsp;
 
 ---
 
