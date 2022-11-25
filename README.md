@@ -20,9 +20,9 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### : Let's connect :
+### Let's connect :
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/tafara-kasparov-mhangami/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tafara-kasparov-mhangami/)
 &nbsp;
 
 ---
