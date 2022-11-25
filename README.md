@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zimbabwe.
-- :telescope: Currently specializing in Machine Learning Engineer but I have a rich background in web development. 
+- :telescope: Currently specializing in Machine Learning and I have a rich background in web development. 
 
 - :seedling: I am trying to make machines more intelligent than I am.
 
